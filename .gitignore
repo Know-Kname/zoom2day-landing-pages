@@ -17,3 +17,6 @@ desktop.ini
 
 # Vercel
 .vercel/
+
+# Playwright browser cache
+.playwright-cli/
